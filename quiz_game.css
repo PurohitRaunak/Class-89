@@ -1,0 +1,48 @@
+body
+{
+	background: linear-gradient(rgb(237, 237, 142) 0%, rgb(247, 118, 118) 100%);;
+}
+
+
+.login_div1
+	{
+		background: linear-gradient(rgb(232, 101, 221) 0%, rgb(50, 133, 228) 100%);;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+.login_div2
+{
+        background: linear-gradient(rgb(50, 133, 228) 0%, rgb(232, 101, 221) 100%);;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#word
+{
+	width: 60%;
+}
+
+#word_display
+{
+	letter-spacing: 5px;
+}
+
+#output
+{
+background: goldenrod;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
